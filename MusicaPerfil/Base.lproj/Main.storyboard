@@ -148,7 +148,7 @@
                                                                 </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vlm-Xm-ihx">
-                                                                <rect key="frame" x="127" y="-3" width="97" height="29"/>
+                                                                <rect key="frame" x="121" y="-3" width="107" height="29"/>
                                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="gray" image="person.and.person.fill" catalog="system" title="2261" imagePadding="6" cornerStyle="capsule">
@@ -164,10 +164,10 @@
                                                             <constraint firstItem="LDj-00-gtJ" firstAttribute="trailing" secondItem="8vd-R5-0zI" secondAttribute="trailingMargin" constant="8" id="KCT-0U-UxR"/>
                                                             <constraint firstItem="vlm-Xm-ihx" firstAttribute="baseline" secondItem="LDj-00-gtJ" secondAttribute="baseline" id="UH3-oV-jd6"/>
                                                             <constraint firstItem="dCs-iy-K2T" firstAttribute="baseline" secondItem="vlm-Xm-ihx" secondAttribute="baseline" id="Wz2-xO-SWj"/>
-                                                            <constraint firstItem="vlm-Xm-ihx" firstAttribute="leading" secondItem="dCs-iy-K2T" secondAttribute="trailing" constant="42" id="apu-4u-hPa"/>
-                                                            <constraint firstItem="LDj-00-gtJ" firstAttribute="leading" secondItem="vlm-Xm-ihx" secondAttribute="trailing" constant="22" id="gO8-on-egS"/>
+                                                            <constraint firstItem="vlm-Xm-ihx" firstAttribute="leading" secondItem="dCs-iy-K2T" secondAttribute="trailing" constant="36" id="apu-4u-hPa"/>
+                                                            <constraint firstItem="LDj-00-gtJ" firstAttribute="leading" secondItem="vlm-Xm-ihx" secondAttribute="trailing" constant="18" id="gO8-on-egS"/>
                                                             <constraint firstItem="dCs-iy-K2T" firstAttribute="centerY" secondItem="8vd-R5-0zI" secondAttribute="centerY" id="mg3-Rh-t0C"/>
-                                                            <constraint firstItem="vlm-Xm-ihx" firstAttribute="centerX" secondItem="8vd-R5-0zI" secondAttribute="centerX" constant="0.5" id="og4-uu-8jy"/>
+                                                            <constraint firstItem="vlm-Xm-ihx" firstAttribute="centerX" secondItem="8vd-R5-0zI" secondAttribute="centerX" constant="-0.5" id="og4-uu-8jy"/>
                                                             <constraint firstItem="dCs-iy-K2T" firstAttribute="leading" secondItem="8vd-R5-0zI" secondAttribute="leadingMargin" constant="-8" id="yXe-KB-wFT"/>
                                                         </constraints>
                                                     </view>
