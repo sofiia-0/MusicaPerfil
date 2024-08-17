@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    //Outlets
+    //Outlet
     @IBOutlet weak var imagepfp: UIImageView!
     
     override func viewDidLoad() {
