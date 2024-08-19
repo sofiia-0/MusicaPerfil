@@ -13,6 +13,8 @@
 		771643B62C6D54030099D6F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 771643B42C6D54030099D6F4 /* Main.storyboard */; };
 		771643B82C6D54060099D6F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 771643B72C6D54060099D6F4 /* Assets.xcassets */; };
 		771643BB2C6D54060099D6F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 771643B92C6D54060099D6F4 /* LaunchScreen.storyboard */; };
+		77BB7FF22C71116000230C4F /* DemoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77BB7FF02C71116000230C4F /* DemoTableViewCell.swift */; };
+		77BB7FF32C71116000230C4F /* DemoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 77BB7FF12C71116000230C4F /* DemoTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		771643B72C6D54060099D6F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		771643BA2C6D54060099D6F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		771643BC2C6D54060099D6F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77BB7FF02C71116000230C4F /* DemoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoTableViewCell.swift; sourceTree = "<group>"; };
+		77BB7FF12C71116000230C4F /* DemoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DemoTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				771643B72C6D54060099D6F4 /* Assets.xcassets */,
 				771643B92C6D54060099D6F4 /* LaunchScreen.storyboard */,
 				771643BC2C6D54060099D6F4 /* Info.plist */,
+				77BB7FF02C71116000230C4F /* DemoTableViewCell.swift */,
+				77BB7FF12C71116000230C4F /* DemoTableViewCell.xib */,
 			);
 			path = MusicaPerfil;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				771643BB2C6D54060099D6F4 /* LaunchScreen.storyboard in Resources */,
 				771643B82C6D54060099D6F4 /* Assets.xcassets in Resources */,
+				77BB7FF32C71116000230C4F /* DemoTableViewCell.xib in Resources */,
 				771643B62C6D54030099D6F4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +147,7 @@
 			files = (
 				771643B32C6D54030099D6F4 /* ViewController.swift in Sources */,
 				771643AF2C6D54030099D6F4 /* AppDelegate.swift in Sources */,
+				77BB7FF22C71116000230C4F /* DemoTableViewCell.swift in Sources */,
 				771643B12C6D54030099D6F4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
