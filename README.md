@@ -4,7 +4,7 @@
   <img src="MusicaPerfil/Assets.xcassets/frontMusicaInterfaz.imageset/frontMusicaInterfaz.png">
 </p>
 
-Este proyecto es una aplicación móvil creada en Swift que permite la visualización de una interfaz está diseñada para ser minimalista y atractiva, presentando un perfil de usuario y una lista de reproducción.
+Este proyecto es una aplicación móvil creada en Swift que permite la visualización de una interfaz diseñada para ser minimalista y atractiva, presentando un perfil de usuario y una lista de reproducción.
 
 ## Tecnologías Utilizadas
 - Swift
